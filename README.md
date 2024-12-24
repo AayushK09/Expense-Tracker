@@ -1,6 +1,6 @@
 ## Expense Tracker
 
-A simple Expense Tracker web application built using React. This app allows users to add, edit, remove, and view all expenses, making it easy to track personal finances.
+A simple Expense Tracker web application built using HTML,CSS and JS. This app allows users to add, edit, remove, and view all expenses, making it easy to track personal finances.
 
 ## Features
 
